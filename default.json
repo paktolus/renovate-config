@@ -1,0 +1,20 @@
+{
+  "extends": ["config:base"],
+  "baseBranches": ["dev"],
+  "packageRules": [
+    {
+      "updateTypes": ["minor", "patch"],
+      "automerge": true
+    },
+    {
+      "updateTypes": ["major"],
+      "automerge": false
+    }
+  ],
+  "major": {
+    "masterIssueApproval": true
+  },
+  "requiredStatusChecks": null,
+  "renovateFork": true,
+  "dependencyDashboard": true
+}
