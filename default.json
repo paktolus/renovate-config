@@ -16,13 +16,6 @@
         "major"
       ],
       "automerge": false
-    },
-    {
-      "packagePatterns": [
-        "@material-ui/lab",
-        "@material-ui/pickers"
-      ],
-      "enabled": false
     }
   ],
   "major": {
