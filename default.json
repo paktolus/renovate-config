@@ -16,6 +16,17 @@
         "major"
       ],
       "automerge": false
+    },
+    {
+      "packagePatterns": [
+        "@material-ui/lab",
+        "@material-ui/pickers",
+        "formik",
+        "notistack",
+        "react-intl",
+        "react"
+      ],
+      "enabled": false
     }
   ],
   "major": {
