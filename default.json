@@ -31,7 +31,5 @@
   },
   "requiredStatusChecks": null,
   "renovateFork": true,
-  "dependencyDashboard": true,
-  "ignorePaths": ["**/node_modules/**"]
-
+  "dependencyDashboard": true
 }
