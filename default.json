@@ -21,7 +21,8 @@
     {
       "packagePatterns": [
         "@material-ui/lab",
-        "@material-ui/pickers"
+        "@material-ui/pickers",
+        "yup"
       ],
       "enabled": false
     }
