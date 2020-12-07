@@ -19,12 +19,7 @@
       "automerge": false
     },
     {
-      "packagePatterns": [
-        "@material-ui/lab",
-        "@material-ui/pickers",
-        "husky",
-        "yup"
-      ],
+      "packagePatterns": [],
       "enabled": false
     }
   ],
