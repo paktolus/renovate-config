@@ -6,6 +6,10 @@
   ],
   "packageRules": [
     {
+      "matchPackagePatterns": ["^@paktolus/"],
+      "rollbackPrs": false
+    },
+    {
       "updateTypes": [
         "minor",
         "patch"
