@@ -7,6 +7,10 @@
   ],
   "packageRules": [
     {
+      "matchPackagePatterns": ["eslint-plugin-import"],
+      "allowedVersions": "2.22.1"
+    },
+    {
       "matchPackagePatterns": ["^@paktolus/"],
       "rollbackPrs": false
     },
